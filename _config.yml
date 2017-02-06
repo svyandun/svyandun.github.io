@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
 google_analytics: UA-91404915-1
+permalink: /posts/:title
